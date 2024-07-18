@@ -1,14 +1,14 @@
-# Hola, soy [Tu Nombre] 🚀
+# Hola, soy Diego Lozano 🚀
 
 ### 🌟 Sobre Mí
 
-Apasionada por la tecnología, me especializo en [Tu Especialidad]. Me encanta aprender y aplicar nuevas tecnologías para resolver problemas del mundo real.
+Apasionado por la tecnología, me especializo en el desarrollo web. Me encanta aprender y aplicar nuevas tecnologías para resolver problemas del mundo real.
 
-- 🔭 Actualmente trabajando en: [Proyecto Actual]
-- 🌱 Aprendiendo: [Tecnología o Habilidad]
-- 👯 Buscando colaborar en: [Tipo de Proyecto]
-- 📫 Cómo contactarme: [Tu Email]
-- 🌐 Sitio web: [Tu Sitio Web]
+- 🔭 Actualmente trabajando en: 
+- 🌱 Aprendiendo: HTML, CSS, JavaScript
+- 👯 Buscando colaborar en: proyectos de desarrollo web con JavaScript
+- 📫 Cómo contactarme: diegolozanodev@gmail.com
+- 🌐 Sitio web: 
 
 ### 💼 Experiencia
 
@@ -19,7 +19,7 @@ Apasionada por la tecnología, me especializo en [Tu Especialidad]. Me encanta a
 
 ### 💻 Habilidades
 
-- **Lenguajes:** Java, Kotlin, Swift
+- **Lenguajes:** JavaScript
 - **Frameworks:** Angular, Spring, Vue.js
 - **Herramientas:** AWS, Docker, Jenkins
 

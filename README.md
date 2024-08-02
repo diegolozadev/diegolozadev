@@ -4,8 +4,8 @@
 
 Apasionado por la tecnología, me especializo en el desarrollo web. Me encanta aprender y aplicar nuevas tecnologías para resolver problemas del mundo real.
 
-- 🔭 Actualmente trabajando en: 
-- 🌱 Aprendiendo: HTML, CSS, JavaScript
+- 🔭 Actualmente trabajo como Analista de Datos 
+- 🌱 Aprendiendo: HTML, CSS, JavaScript y React.
 - 👯 Buscando colaborar en: proyectos de desarrollo web con JavaScript
 - 📫 Cómo contactarme: diegolozanodev@gmail.com
 - 🌐 Sitio web: 

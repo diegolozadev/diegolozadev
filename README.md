@@ -12,25 +12,15 @@ Apasionado por la tecnología, me especializo en el desarrollo web. Me encanta a
 
 ### 💼 Experiencia
 
-- **[Puesto Actual]** en [Empresa]
-  - Descripción de tus responsabilidades y logros.
-- **[Puesto Anterior]** en [Empresa]
-  - Descripción de tus responsabilidades y logros.
+- Analista de Datos.
+  - Analizo y realizo informes en el area de la salud, utilizando Excel y powerBI.
 
 ### 💻 Habilidades
 
 - **Lenguajes:** JavaScript
-- **Frameworks:** Angular, Spring, Vue.js
-- **Herramientas:** AWS, Docker, Jenkins
-
-### 📚 Proyectos
-
-- **[Nombre del Proyecto]**
-  - Descripción breve.
-  - Tecnologías utilizadas: [Tecnologías]
+- **Frameworks:** React
+- **Herramientas:** HTML, CSS, Excel, PowerBI
 
 ### 🌐 Encuéntrame en:
 
-- [LinkedIn](https://linkedin.com/in/tu-usuario)
-- [Twitter](https://twitter.com/tu-usuario)
-- [GitHub](https://github.com/tu-usuario)
+- https://www.linkedin.com/in/diego-lozano-duarte-847901196/

@@ -13,7 +13,7 @@ Apasionado por la tecnología, me especializo en el desarrollo web. Me encanta a
 ### 💼 Experiencia
 
 - Analista de Datos.
-  - Analizo y realizo informes en el area de la salud, utilizando Excel y powerBI.
+  - Analizo y realizo informes en el area de la salud, utilizando Python, Excel y powerBI.
 
 ### 💻 Habilidades
 

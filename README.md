@@ -4,22 +4,21 @@
 
 Apasionado por los datos y el desarrollo web. Me encanta aprender y aplicar nuevas tecnologías para resolver problemas del mundo real.
 
-- 🔭 Actualmente trabajo como Analista de Datos.
-- 🌱 Aprendiendo: Python, Django, JavaScript y React.
+- 🔭 Actualmente trabajo como Analista de Datos y Desarrollador python.
+- 🌱 Aprendiendo: Django, DRF, Docker y FastApi.
 - 👯 Buscando colaborar en: proyectos de desarrollo web o analitica de datos con Python.
 - 📫 Cómo contactarme: diegolozanodev@gmail.com
 - 🌐 Sitio web: 
 
 ### 💼 Experiencia
 
-- Analista de Datos.
-  - Analizo y realizo informes en el area de la salud, utilizando Python, GCP y Excel.
+- Desarrollo soluciones de software utilizando Django y Python, enfocadas en la automatización de procesos y la gestión eficiente de información.
 
 ### 💻 Habilidades
 
-- **Lenguajes:** Python, JavaScript.
-- **Frameworks:** Django, React.
-- **Herramientas:** Python, Excel, Looker Studio, BigQuery.
+- **Lenguajes:** Python, SQL.
+- **Frameworks:** Django.
+- **Herramientas:** Python, Excel, Looker Studio, BigQuery, GCP.
 
 ### 🌐 Encuéntrame en:
 
